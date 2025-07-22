@@ -4,7 +4,7 @@ import '../styled/header.css';
 
 function Header() {
   return (
-    <header className="fixed top-0 left-0 right-0 z-[99] custom-border text-[var(--white)] font-header">
+    <header className="fixed bg-[var(--bg)] top-0 left-0 right-0 z-[99] custom-border text-[var(--white)] font-header">
       <section className="flex items-center justify-between pt-[1.5rem] pb-[1.5rem]">
         <a href="#">
           <img src={logo} alt="logo-coffe" />
