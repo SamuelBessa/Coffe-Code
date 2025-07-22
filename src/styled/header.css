@@ -1,5 +1,5 @@
-.header-custom {
-  font-family: var(--font-baskerville)
+.font-header {
+  font-family: var(--font-header)
 }
 
 .custom-border {
