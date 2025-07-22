@@ -1,0 +1,17 @@
+.header-custom {
+  font-family: var(--font-baskerville)
+}
+
+.custom-border {
+  border-bottom: var(--border);
+}
+
+.menu-links a:hover {
+  color: var(--main-color);
+  transform: scale(1.1);
+}
+
+.icons :hover {
+    color: var(--main-color);
+    transform: scale(1.1);
+}
